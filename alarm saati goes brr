@@ -1,0 +1,53 @@
+$Minutes = 00;
+$Hours = 9;
+if (date("H") == $Hours && date("i") >= $Minutes)
+{
+echo "bak bi bana... uyan artık...https://www.youtube.com/watch?v=9RDVj4KyQQ4";
+}
+
+$Minutes = 00;
+$Hours = 12;
+if (date("H") == $Hours && date("i") >= $Minutes)
+{
+echo "yemke zamanı geldi ding dong ";
+}
+
+
+$Minutes = 00;
+$Hours = 14;
+if (date("H") == $Hours && date("i") >= $Minutes)
+{
+echo "e bi zamet işe geri dön ama";
+}
+
+
+$Minutes = 00;
+$Hours = 18;
+if (date("H") == $Hours && date("i") >= $Minutes)
+{
+echo "yapaca daha işin yok mu senin? şaka şaka eve git artık yeter ";
+}
+
+$Minutes = 00;
+$Hours = 19;
+if (date("H") == $Hours && date("i") >= $Minutes)
+{
+echo "dizinin yeni bölümü gelmiştir bi bakıp gelsene ";
+}
+
+$Minutes = 00;
+$Hours = 20;
+if (date("H") == $Hours && date("i") >= $Minutes)
+{
+echo "kedini besledin mi sen? hazır klakmışken de bi çay getirsene keyfimiz yerine gelsin sonra da spor yaparız  ";
+}
+
+$Minutes = 00;
+$Hours = 22;
+if (date("H") == $Hours && date("i") >= $Minutes)
+{
+echo "miniklerin uyku saati. şimdi haydi uykuya nırırırı    https://www.youtube.com/watch?v=AF_nfazQaek&t=66s  ";
+}
+
+
+
